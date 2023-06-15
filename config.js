@@ -1,5 +1,5 @@
 const config = {
-    version: '1.0.0',
+    version: '1.0.1',
     url: 'https://app.test.ecoonline.com',
     application_id: 6,
     company_id: 1715,
